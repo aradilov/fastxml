@@ -1,0 +1,7 @@
+github.com/anknown/ahocorasick v0.0.0-20190904063843-d75dbd5169c0/go.mod h1:4yg+jNTYlDEzBjhGS96v+zjyA3lfXlFd5CiTLIkPBLI=
+github.com/anknown/darts v0.0.0-20151216065714-83ff685239e6/go.mod h1:pbiaLIeYLUbgMY1kwEAdwO6UKD5ZNwdPGQlwokS9fe8=
+github.com/aradilov/ahocorasick v0.0.0-20210630145607-59fa81544290 h1:Y9OPrWOtN1JpJwuY2UkAybeEGBQbYhQB1L23/SzJbFQ=
+github.com/aradilov/ahocorasick v0.0.0-20210630145607-59fa81544290/go.mod h1:TxsGHG7EgTBlw9LLdHRftT+hOa/Em36GONkSK6SsoYs=
+github.com/cloudflare/ahocorasick v0.0.0-20210425175752-730270c3e184/go.mod h1:tGWUZLZp9ajsxUOnHmFFLnqnlKXsCn6GReG4jAD59H0=
+github.com/orisano/gosax v1.0.1 h1:57uwkm0+Z3BksewmxMGdy0SW7HrtDsFcOwGX73pjYEA=
+github.com/orisano/gosax v1.0.1/go.mod h1:mw6A5jIOFDeVOqffQkggKOOjRFevYnLyXgiZP06fRjI=
